@@ -1,0 +1,27 @@
+/* .mycontent {
+    padding-top: 100px;
+    border: 10px solid red;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #191063;
+    margin: 0;
+} */
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.homepage-title {
+    text-align: center;
+    font-weight: 600;
+    color: #337ab7;
+}
