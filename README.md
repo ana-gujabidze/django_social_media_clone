@@ -22,8 +22,8 @@ The application itself allows you to do the following:
 ## Common setup
 Clone the repo and install the dependencies.
 ``` 
-git clone https://github.com/ana-gujabidze/django_first_social_media_project.git
-cd django_first_social_media_project
+git clone https://github.com/ana-gujabidze/django_social_media_clone.git
+cd django_social_media_clone
 ```
 Secret key in the settings module should not be hardcoded, it is a better and safer practice to keep it as an environment variable. Because of that create `.env` file similar to `.env_sample` file and specify `SECRET_KEY` there, which must a large random value.
 
