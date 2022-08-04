@@ -1,3 +1,4 @@
 Django==4.0.4
-django_braces==1.15.0
+django-braces==1.15.0
+django-bootstrap3==21.2
 misaka==2.1.1
